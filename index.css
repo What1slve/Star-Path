@@ -22,7 +22,7 @@ body {
 }
 
 .offline{
-  background-image: url("/background.png");
+  background-image: url("/Star-Path/background.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
